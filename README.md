@@ -11,7 +11,9 @@
 **DESCRIPCION**
 
 ***PARTE 1 : DIAGRAMA DE LA ARQUITECTURA***
+
 En el diagrama de la arquitectura se muestran dos rutas que siguen los dos datasets utilizados (airbnb-listings.csv y data.csv)
+https://docs.google.com/drawings/d/1Fnj7eORIlnd8xREeFinvOFvXE491FwvwK-pIrRYufZU/edit?usp=sharing
 
 *Datalake:*
 
